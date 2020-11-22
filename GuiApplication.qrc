@@ -1,0 +1,38 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resources/ac_circle.png</file>
+        <file>Resources/Bigblock.qml</file>
+        <file>Resources/Block.qml</file>
+        <file>Resources/Block2.qml</file>
+        <file>Resources/c_circle.png</file>
+        <file>Resources/Capture.PNG</file>
+        <file>Resources/logout icon.png</file>
+        <file>Resources/rect1.png</file>
+        <file>Resources/rect2.png</file>
+        <file>Resources/rect3.png</file>
+        <file>Resources/rect4.png</file>
+        <file>Resources/redo.png</file>
+        <file>Resources/refresh.png</file>
+        <file>Resources/shear1.png</file>
+        <file>Resources/shear2.png</file>
+        <file>Resources/steel_blocks.png</file>
+        <file>Resources/undo.png</file>
+        <file>Resources/rect5.png</file>
+        <file>Resources/rect6.png</file>
+        <file>Resources/home icon.png</file>
+        <file>Resources/rect7.png</file>
+        <file>Resources/rect8.png</file>
+        <file>Resources/start.png</file>
+        <file>Resources/stop.png</file>
+        <file>Resources/backward.png</file>
+        <file>Resources/forward.png</file>
+        <file>Resources/new.qml</file>
+        <file>Resources/main1.qml</file>
+        <file>Resources/material.js</file>
+        <file>Resources/load.qml</file>
+        <file>Resources/onehalf.qml</file>
+        <file>Resources/neu.qml</file>
+        <file>Resources/About GUI.png</file>
+        <file>Resources/mainAnim.qml</file>
+    </qresource>
+</RCC>
